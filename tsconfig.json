@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
-        "module": "ESNext",
         "moduleResolution": "node",
-        "target": "ES2019",
+        "target": "ESNext",
+        "module": "ESNext",
         "esModuleInterop": true,
         "resolveJsonModule": true,
         "baseUrl": "src",
